@@ -5,6 +5,7 @@ Breakout-ram-v0 with DQN
 ## Usage 
 Type the following command to install OpenAI Gym Atari environment.<br>
 >$ pip3 install opencv-python gym gym[atari]<br>
+
 Please refer to OpenAI's page if you have any problem while installing.<br>
 ## Feature
  #### Hyperparameter
